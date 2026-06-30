@@ -1,4 +1,4 @@
-# Urdu OCR Tool
+# Urdu OCR Project | Code Saviours SI-26 | Minahil Fatima
 
 ## Project Overview
 This project aims to build an Optical Character Recognition (OCR) system that extracts text from printed Urdu document images.
